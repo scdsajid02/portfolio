@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../img/Resume (3).pdf";
+
 
 const Contact = () => {
   return (
